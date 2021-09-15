@@ -12,7 +12,7 @@
  🌱 I am also a student in security & cloud
   <br>
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HorebParraud&count_private=true&hide=contribs,prs,issues&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HorebParraud&count_private=true&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE" />
   </br>
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HorebParraud&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats" />
