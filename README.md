@@ -17,6 +17,8 @@
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HorebParraud&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats" />
 </div>
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HorebParraud&theme=dracula&hide_border=true)
 
 ---
