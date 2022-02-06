@@ -17,6 +17,7 @@
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HorebParraud&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats" />
 </div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HorebParraud&theme=dracula&hide_border=true)
 
 ---
 
@@ -29,18 +30,7 @@
 <!--END_SECTION:waka-->
 
 <!--
-**HorebParraud/HorebParraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HorebParraud&repo=Epitech_project)](https://github.com/HorebParraud/Epitech_projec)
 ![Horeb's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=HorebParraud)
 
