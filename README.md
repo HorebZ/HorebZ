@@ -19,7 +19,7 @@
 </div>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HorebParraud&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HorebParraud&theme=dracula&hide_border=true) -->
 
 ---
 
