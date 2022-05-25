@@ -12,38 +12,31 @@
  🌱 I am also a student in security & cloud
   <br>
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HorebParraud&count_private=true&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HorebParraud&count_private=true&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE" />
   </br>
   </br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HorebParraud&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HorebParraud&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats" />
+
 </div>
 
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HorebParraud&theme=dracula&hide_border=true) -->
+![gif][gif_path]
 
 ---
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- VARIABLES SECTION -->
 
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/horeb-parraud/
 
+[gif_path]: ./dropped_orb_transparent.gif
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HorebParraud&repo=Epitech_project)](https://github.com/HorebParraud/Epitech_projec)
-![Horeb's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=HorebParraud)
-
+<!-- SAVE SECTION
 
 ![Horeb's GitHub stats][card]
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HorebParraud&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats)
 <br>
--->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/horeb-parraud/
-
 
 [foregroundColor]: #0f0d19
 [backgroundColor]: #252334
@@ -57,3 +50,10 @@
 [white]: #dbdbdb
 
 [card]: https://github-readme-stats.vercel.app/api?username=HorebParraud&count_private=true&hide=contribs,prs,issues&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE
+
+-->
+
+
+
+
+
