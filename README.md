@@ -1,16 +1,14 @@
 ### Hi there 🤙🏽
-> I am a French backend developer
+> I am a French software engineer
 
 <br>
 
 <div align="center">
 
 
- 🔭 I am currently working for Safecube as a backend developer
+ 🔭 I am currently working for Indy as a software engineer
   </br>
-  </br>
- 🌱 I am also a student in security & cloud
-  <br>
+
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=HorebZ&count_private=true&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE" />
   </br>
