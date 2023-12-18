@@ -1,34 +1,46 @@
+
+<img align="left" src="dogdev.gif" width='60' style="pading: 10px;"/>
+
 ### Hi there 🤙🏽
-> I am a French software engineer
+
+I'm a **passionate** software engineer from france 🇫🇷
+
 
 <br>
 
 <div align="center">
 
+  <img src="dog.gif" width='50' />
 
- 🔭 I am currently working for Indy as a software engineer
+  🔭 I am currently working for Indy as a software engineer
   </br>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=HorebZ&count_private=true&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE&include_all_commits=true" height='160' />
   </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HorebZ&count_private=true&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HorebZ&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats" height='151' />
   </br>
-  </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HorebZ&theme=nightowl&hide_border=true&background=252334&dates=6CFFD0&ring=FF7372&fire=FF7372&stroke=DBDBDB&currStreakLabel=DBDBDB&currStreakNum=DBDBDB&sideNums=DBDBDB&sideLabels=DBDBDB)](https://git.io/streak-stats" />
+
+
 
 </div>
 
-![gif][gif_path]
+![gif][dropped]
 
+
+![Static Badge](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescipt-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- VARIABLES SECTION -->
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555555
 [linkedin-url]: https://www.linkedin.com/in/horeb-parraud/
 
-[gif_path]: ./dropped_orb_transparent.gif
+[dropped]: ./dropped_orb.gif
 
 <!-- SAVE SECTION
 
@@ -48,6 +60,9 @@
 [white]: #dbdbdb
 
 [card]: https://github-readme-stats.vercel.app/api?username=HorebZ&count_private=true&hide=contribs,prs,issues&show_icons=true&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorebZ&title_color=ff7372&icon_color=6cffd0&text_color=dbdbdb&bg_color=252334&hide_border=TRUE" height='365' />
+</br>
 
 -->
 
