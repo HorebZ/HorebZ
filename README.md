@@ -28,9 +28,9 @@ I'm a **passionate** software engineer from france 🇫🇷
 
 
 ![Static Badge](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Typescipt-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
