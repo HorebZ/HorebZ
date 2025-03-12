@@ -23,19 +23,6 @@ I'm a **passionate** software engineer from france 🇫🇷
 -->
 
 
-</div>
-
-![gif][dropped]
-
-
-![Static Badge](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
----
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
@@ -51,6 +38,19 @@ I'm a **passionate** software engineer from france 🇫🇷
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <!-- my-badges end -->
+
+</div>
+
+![gif][dropped]
+
+
+![Static Badge](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+---
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- VARIABLES SECTION -->
 
