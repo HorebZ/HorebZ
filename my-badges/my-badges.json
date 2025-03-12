@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/HorebZ/Epitech_project/commit/ae0cb63e299301351f7bdc873e95244d0d6cc3ae\"><strong>a</strong>e0cb63e299301351f7bdc873e95244d0d6cc3ae</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/HorebZ/Epitech_project/commit/ab9e9d4fa9611ce52d767147b7f0817f2728d232\"><strong>ab</strong>9e9d4fa9611ce52d767147b7f0817f2728d232</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/ab1600a8d270de878fc87969dbdf12b79b7bdd63\">ab1600a</a>: chore: bump deno.json version to 0.1.2",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 38 times)\n2. readme.md (used 36 times)\n3. initial (used 15 times)\n4. commit (used 15 times)\n5. add (used 8 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Epitech_project/commit/eb8856212734eb6f034ec58dd9591313d4721160\">eb88562</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/783\">#783</a>: Chess: Move C8 to D7\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/797\">#797</a>: Chess: Move D7 to B6\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/867\">#867</a>: Chess: Move H1 to G1",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Safecube-TechnicalTest/commit/211f3946e95b24cae6e170dd9d3dba50f6cb733a\">211f394</a>\n- <a href=\"https://github.com/HorebZ/Safecube-TechnicalTest/commit/e1d86c1c0551883699b93e1658e28e619f05443a\">e1d86c1</a>\n- <a href=\"https://github.com/HorebZ/Epitech_project/commit/ab9e9d4fa9611ce52d767147b7f0817f2728d232\">ab9e9d4</a>\n- <a href=\"https://github.com/HorebZ/Popeye/commit/2f62cc8cca582982bc95ce3a4240f2b71c8b67c9\">2f62cc8</a>\n- <a href=\"https://github.com/HorebZ/Popeye/commit/29a38af12d046fb4cf290b667191cfbd6d2c7b0d\">29a38af</a>\n- <a href=\"https://github.com/HorebZ/Popeye/commit/7526098d5ef586bb7af20745226b0e9a8890ec6e\">7526098</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/ab1600a8d270de878fc87969dbdf12b79b7bdd63\">ab1600a</a>\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/f4687e16962812b643d37fea579317702316a806\">f4687e1</a>\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/152a2b99ec110e02bb25954ba7113d79ac503acc\">152a2b9</a>\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/59f08b138be201b92b81cf7fcd1edea5bba0e111\">59f08b1</a>\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/4c21d7e3ac9de4dbdd4612e49bc0d49a9ffca43e\">4c21d7e</a>\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/365e862f1030e355ab3205c4105ce120754ecc1f\">365e862</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Epitech_project/commit/f6d69346d285ca1adbd9596089d3296fac85f03f\">f6d6934</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
