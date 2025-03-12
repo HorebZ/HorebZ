@@ -12,7 +12,24 @@ jobs:
   my-badges:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "HorebZ"
+          git config --global user.email ${{ secrets.GIT_AUTHOR_EMAIL }}
+
       - name: Update My Badges
-        run: npx update-my-badges ${{github.repository_owner}}
+        run: npx update-my-badges ${{ github.repository_owner }} --size=56
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Mise à jour automatique des badges"
+          git push origin main
+        env:
+          GIT_AUTHOR_NAME: "HorebZ"
+          GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
