@@ -17,7 +17,7 @@ jobs:
 
       - name: Set up Git
         run: |
-          git config --global user.name "Horebz"
+          git config --global user.name "HorebZ"
           git config --global user.email ${{ secrets.GIT_AUTHOR_EMAIL }}
 
       - name: Update My Badges
