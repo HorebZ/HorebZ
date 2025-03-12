@@ -36,6 +36,9 @@ I'm a **passionate** software engineer from france 🇫🇷
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 <!-- VARIABLES SECTION -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555555
