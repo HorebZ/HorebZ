@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 42 times)\n2. readme.md (used 37 times)\n3. initial (used 15 times)\n4. commit (used 15 times)\n5. add (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 43 times)\n2. readme.md (used 37 times)\n3. initial (used 15 times)\n4. commit (used 15 times)\n5. add (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -89,5 +89,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Epitech_project/commit/f6d69346d285ca1adbd9596089d3296fac85f03f\">f6d6934</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/jsulpis/talk-color-science/issues/1\">👍</a>\n* <a href=\"https://github.com/jsulpis/talk-color-science/issues/1\">❤️</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
