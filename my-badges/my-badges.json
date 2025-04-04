@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 45 times)\n2. readme.md (used 37 times)\n3. initial (used 15 times)\n4. commit (used 15 times)\n5. add (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 46 times)\n2. readme.md (used 37 times)\n3. initial (used 15 times)\n4. commit (used 15 times)\n5. add (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/783\">#783</a>: Chess: Move C8 to D7\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/797\">#797</a>: Chess: Move D7 to B6\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/867\">#867</a>: Chess: Move H1 to G1",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/783\">#783</a>: Chess: Move C8 to D7\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/797\">#797</a>: Chess: Move D7 to B6\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/867\">#867</a>: Chess: Move H1 to G1\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/6020\">#6020</a>: Chess: Move D4 to E5\n- <a href=\"https://github.com/marcizhu/marcizhu/issues/6028\">#6028</a>: Chess: Move A1 to C1\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/3845fa1e36963846826fea1804513a884e96e316\">3845fa1</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/71e6b89430da4d9d268906c1c607f29dda370721\">71e6b89</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/9725fb9ee39019c9f7063b110a649f31eb096e75\">9725fb9</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/3845fa1e36963846826fea1804513a884e96e316\">3845fa1</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/71e6b89430da4d9d268906c1c607f29dda370721\">71e6b89</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   }
 ]
