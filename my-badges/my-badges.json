@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 72 times)\n2. readme.md (used 38 times)\n3. badges (used 29 times)\n4. initial (used 15 times)\n5. commit (used 15 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 73 times)\n2. readme.md (used 38 times)\n3. badges (used 30 times)\n4. initial (used 15 times)\n5. commit (used 15 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ed374e70bf3e8026d8f8420f00102d436bc49fb1\">ed374e7</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/e40e14ecbaa3b6a76257f62e0b12f59238df50f4\">e40e14e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0c80b64f76627268160e17efb586129a603fb10f\">0c80b64</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0d9b44c21f5efaa387801abc5060b9e2c623b698\">0d9b44c</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/33e02933d8fb55fa116c439a1e96a84bcb09c906\">33e0293</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/9716deb4fcd6efa887e47267365eaa14357d2b71\">9716deb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/869a5f119d534bf68372cd912440d6a3250a9a8a\">869a5f1</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ed374e70bf3e8026d8f8420f00102d436bc49fb1\">ed374e7</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/e40e14ecbaa3b6a76257f62e0b12f59238df50f4\">e40e14e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0c80b64f76627268160e17efb586129a603fb10f\">0c80b64</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0d9b44c21f5efaa387801abc5060b9e2c623b698\">0d9b44c</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/33e02933d8fb55fa116c439a1e96a84bcb09c906\">33e0293</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
