@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 130 times)\n2. badges (used 87 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 131 times)\n2. badges (used 88 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/d7d6c2ca3522c816ee9636f5619643a2b99429a5\">d7d6c2c</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/3a011a3bb52a7f119a43c3f1312a35529425046b\">3a011a3</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/51d5a68f2f790ba54f3a97ff2c8f5fba595650f0\">51d5a68</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/6b7846986029e3e239d86cd84e018472d95c1e92\">6b78469</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/a6bc76c0dcf669c2d6ddd39031e09bf98b7f81f6\">a6bc76c</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/7a2d523d9d68cd88609f5df1cc89abd80f6c817c\">7a2d523</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/68011167fa626437eacf9b8a0f98e0f495dc33e8\">6801116</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/d7d6c2ca3522c816ee9636f5619643a2b99429a5\">d7d6c2c</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/3a011a3bb52a7f119a43c3f1312a35529425046b\">3a011a3</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/51d5a68f2f790ba54f3a97ff2c8f5fba595650f0\">51d5a68</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/6b7846986029e3e239d86cd84e018472d95c1e92\">6b78469</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/a6bc76c0dcf669c2d6ddd39031e09bf98b7f81f6\">a6bc76c</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -110,5 +110,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/e40e14ecbaa3b6a76257f62e0b12f59238df50f4\">e40e14e</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/HorebZ/push_swap\">HorebZ/push_swap: ★12</a>\n* <a href=\"https://github.com/HorebZ/Popeye\">HorebZ/Popeye: ★9</a>\n* <a href=\"https://github.com/HorebZ/Need4Stek\">HorebZ/Need4Stek: ★8</a>\n* <a href=\"https://github.com/HorebZ/Epitech_project\">HorebZ/Epitech_project: ★7</a>\n* <a href=\"https://github.com/HorebZ/42sh\">HorebZ/42sh: ★7</a>\n* <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★7</a>\n* <a href=\"https://github.com/HorebZ/101pong\">HorebZ/101pong: ★6</a>\n* <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ: ★6</a>\n* <a href=\"https://github.com/HorebZ/105torus\">HorebZ/105torus: ★4</a>\n* <a href=\"https://github.com/HorebZ/110borwein\">HorebZ/110borwein: ★4</a>\n* <a href=\"https://github.com/HorebZ/202unsold\">HorebZ/202unsold: ★4</a>\n* <a href=\"https://github.com/HorebZ/205IQ\">HorebZ/205IQ: ★4</a>\n* <a href=\"https://github.com/HorebZ/CAESAR\">HorebZ/CAESAR: ★4</a>\n* <a href=\"https://github.com/tscherrer05/code-names\">tscherrer05/code-names: ★2</a>\n* <a href=\"https://github.com/HorebZ/Badges4-README.md-Profile\">HorebZ/Badges4-README.md-Profile: ★2</a>\n* <a href=\"https://github.com/HorebZ/github-readme-stats\">HorebZ/github-readme-stats: ★2</a>\n* <a href=\"https://github.com/HorebZ/aura-theme\">HorebZ/aura-theme: ★2</a>\n* <a href=\"https://github.com/HorebZ/Wedding-site-front\">HorebZ/Wedding-site-front: ★2</a>\n* <a href=\"https://github.com/HorebZ/Safecube-TechnicalTest\">HorebZ/Safecube-TechnicalTest: ★1</a>\n* <a href=\"https://github.com/HorebZ/django-elasticsearch-dsl\">HorebZ/django-elasticsearch-dsl: ★1</a>\n* <a href=\"https://github.com/HorebZ/glados-domotics-api\">HorebZ/glados-domotics-api: ★1</a>\n* <a href=\"https://github.com/HorebZ/glados-domotics-front\">HorebZ/glados-domotics-front: ★1</a>\n* <a href=\"https://github.com/HorebZ/msc-competency-framework\">HorebZ/msc-competency-framework: ★1</a>\n* <a href=\"https://github.com/HorebZ/first-contributions\">HorebZ/first-contributions: ★1</a>\n* <a href=\"https://github.com/HorebZ/vendor-system\">HorebZ/vendor-system: ★1</a>\n* <a href=\"https://github.com/HorebZ/docs\">HorebZ/docs: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
   }
 ]
