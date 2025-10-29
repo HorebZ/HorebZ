@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 167 times)\n2. badges (used 124 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 168 times)\n2. badges (used 125 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0634c3d33d0a242c6b9347b119b875842dec1b9c\">0634c3d</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/53f269240898eba56254607addb6fb9b1fc7f3ce\">53f2692</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/f0f439f455aab18cad678ec3fd3bda6cfbbd4a0b\">f0f439f</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/cd2ca6e469b44ddcfc00f90daaf0713a44fb6e5d\">cd2ca6e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/692e5076c413409fd23a033b274e9adc31c68b17\">692e507</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/73e6a7cd7393c1afa064fe810fef417b70a0ee2d\">73e6a7c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/e037ddccdbe7dff0151bd8e3e0548906535644c3\">e037ddc</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0634c3d33d0a242c6b9347b119b875842dec1b9c\">0634c3d</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/53f269240898eba56254607addb6fb9b1fc7f3ce\">53f2692</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/f0f439f455aab18cad678ec3fd3bda6cfbbd4a0b\">f0f439f</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/cd2ca6e469b44ddcfc00f90daaf0713a44fb6e5d\">cd2ca6e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/692e5076c413409fd23a033b274e9adc31c68b17\">692e507</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
