@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 199 times)\n2. badges (used 156 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 201 times)\n2. badges (used 158 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/822ec049d14558241b87ef2962586d1bc27291c1\">822ec04</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/638cc4fe4a93715541fb70b49e85a981cef62d0d\">638cc4f</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/eff2b2c9d94b3565c0b89e8a03bb84eea3b84491\">eff2b2c</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/c2e796e56e6cd6701141629d97407d9b4d5c1e85\">c2e796e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/1a79d3fa16fc0d3c40453f844752952dbe422b15\">1a79d3f</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ad61a17f505ae7b15db220a19db99d553e715ee8\">ad61a17</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/06809ad02fc30e8f694e52cc0ef0c2ba844131cd\">06809ad</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/822ec049d14558241b87ef2962586d1bc27291c1\">822ec04</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/638cc4fe4a93715541fb70b49e85a981cef62d0d\">638cc4f</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/eff2b2c9d94b3565c0b89e8a03bb84eea3b84491\">eff2b2c</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/c2e796e56e6cd6701141629d97407d9b4d5c1e85\">c2e796e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/1a79d3fa16fc0d3c40453f844752952dbe422b15\">1a79d3f</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -131,5 +131,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/609b21f0ca9ab450248a2805281e6249ce1f4933\">609b21f</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "abcdef-commit",
+    "tier": 6,
+    "desc": "One of my commit sha starts with \"abcdef\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcdef9ec68af4fc179f5b47bb93535b0cd0df90\"><strong>abcdef</strong>9ec68af4fc179f5b47bb93535b0cd0df90</a>",
+    "image": "https://my-badges.github.io/my-badges/abcdef-commit.png"
   }
 ]
