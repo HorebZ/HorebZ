@@ -44,6 +44,9 @@ I'm a **passionate** software engineer from france 🇫🇷
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="56"></a>
 <a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="56"></a>
 <a href="my-badges/abcdef-commit.md"><img src="https://my-badges.github.io/my-badges/abcdef-commit.png" alt="One of my commit sha starts with &quot;abcdef&quot;." title="One of my commit sha starts with &quot;abcdef&quot;." width="56"></a>
+<a href="my-badges/abc-commit.md"><img src="https://my-badges.github.io/my-badges/abc-commit.png" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="56"></a>
+<a href="my-badges/abcd-commit.md"><img src="https://my-badges.github.io/my-badges/abcd-commit.png" alt="One of my commit sha starts with &quot;abcd&quot;." title="One of my commit sha starts with &quot;abcd&quot;." width="56"></a>
+<a href="my-badges/abcde-commit.md"><img src="https://my-badges.github.io/my-badges/abcde-commit.png" alt="One of my commit sha starts with &quot;abcde&quot;." title="One of my commit sha starts with &quot;abcde&quot;." width="56"></a>
 <!-- my-badges end -->
 
 </div>

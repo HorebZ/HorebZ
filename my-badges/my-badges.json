@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 201 times)\n2. badges (used 158 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 202 times)\n2. badges (used 159 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -138,5 +138,26 @@
     "desc": "One of my commit sha starts with \"abcdef\".",
     "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcdef9ec68af4fc179f5b47bb93535b0cd0df90\"><strong>abcdef</strong>9ec68af4fc179f5b47bb93535b0cd0df90</a>",
     "image": "https://my-badges.github.io/my-badges/abcdef-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abc396e0dce40a22696b98b5e77cbb7ef78e6979\"><strong>abc</strong>396e0dce40a22696b98b5e77cbb7ef78e6979</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "abcd-commit",
+    "tier": 4,
+    "desc": "One of my commit sha starts with \"abcd\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcd2d6b7be7186b552d4ba23aa3f10332fdb02a\"><strong>abcd</strong>2d6b7be7186b552d4ba23aa3f10332fdb02a</a>",
+    "image": "https://my-badges.github.io/my-badges/abcd-commit.png"
+  },
+  {
+    "id": "abcde-commit",
+    "tier": 5,
+    "desc": "One of my commit sha starts with \"abcde\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcde7c74c5600e5e1a975d8e5a03ba9da575aa5\"><strong>abcde</strong>7c74c5600e5e1a975d8e5a03ba9da575aa5</a>",
+    "image": "https://my-badges.github.io/my-badges/abcde-commit.png"
   }
 ]
