@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 214 times)\n2. badges (used 171 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 215 times)\n2. badges (used 172 times)\n3. readme.md (used 38 times)\n4. initial (used 16 times)\n5. commit (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/56ebcc72df0a5d0fedbe9175773a7930e11cb0c1\">56ebcc7</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/b2dc5c773ff3331e694c24cdd19b50b99e3cc993\">b2dc5c7</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/1107ceb936de62e2374ecb0eae86367e118222e1\">1107ceb</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/b06b116888a74d407c37afdff18f689edeacb2bd\">b06b116</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/21f2230dfff8a9261ec718ec21df45261d21a2c2\">21f2230</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/c437122e29f3f024a9e175496cc7d7c7f6a40530\">c437122</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/22139577713539817613a23ec4d9829dcead5319\">2213957</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/56ebcc72df0a5d0fedbe9175773a7930e11cb0c1\">56ebcc7</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/b2dc5c773ff3331e694c24cdd19b50b99e3cc993\">b2dc5c7</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/1107ceb936de62e2374ecb0eae86367e118222e1\">1107ceb</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/b06b116888a74d407c37afdff18f689edeacb2bd\">b06b116</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/21f2230dfff8a9261ec718ec21df45261d21a2c2\">21f2230</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -159,5 +159,12 @@
     "desc": "One of my commit sha starts with \"abcde\".",
     "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcde7c74c5600e5e1a975d8e5a03ba9da575aa5\"><strong>abcde</strong>7c74c5600e5e1a975d8e5a03ba9da575aa5</a>",
     "image": "https://my-badges.github.io/my-badges/abcde-commit.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/71e6b89430da4d9d268906c1c607f29dda370721\">71e6b89</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
