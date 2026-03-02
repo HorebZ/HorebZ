@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/ab1600a8d270de878fc87969dbdf12b79b7bdd63">ab1600a</a>: chore: bump deno.json version to 0.1.2
+- <a href="https://github.com/HorebZ/Horebz_scrolls/commit/3ed324ca71f5f58c1252885ce4e78ff5f6edc3f3">3ed324c</a>: chore: update .gitignore to include .vscode directory
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

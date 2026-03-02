@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine/commit/ab1600a8d270de878fc87969dbdf12b79b7bdd63\">ab1600a</a>: chore: bump deno.json version to 0.1.2",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/3ed324ca71f5f58c1252885ce4e78ff5f6edc3f3\">3ed324c</a>: chore: update .gitignore to include .vscode directory",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 276 times)\n2. badges (used 213 times)\n3. readme.md (used 38 times)\n4. add (used 35 times)\n5. theme (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 282 times)\n2. badges (used 214 times)\n3. readme.md (used 38 times)\n4. add (used 36 times)\n5. theme (used 22 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
