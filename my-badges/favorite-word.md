@@ -4,10 +4,10 @@
 
 My favorite commit message words are:
 
-1. update (used 291 times)
-2. badges (used 223 times)
+1. update (used 292 times)
+2. badges (used 224 times)
 3. readme.md (used 38 times)
-4. add (used 36 times)
+4. add (used 37 times)
 5. theme (used 22 times)
 
 
