@@ -9,9 +9,9 @@ Repos:
 * <a href="https://github.com/HorebZ/Need4Stek">HorebZ/Need4Stek: ★8</a>
 * <a href="https://github.com/HorebZ/Epitech_project">HorebZ/Epitech_project: ★7</a>
 * <a href="https://github.com/HorebZ/42sh">HorebZ/42sh: ★7</a>
-* <a href="https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★7</a>
+* <a href="https://github.com/HorebZ/HorebZ">HorebZ/HorebZ: ★7</a>
 * <a href="https://github.com/HorebZ/101pong">HorebZ/101pong: ★6</a>
-* <a href="https://github.com/HorebZ/HorebZ">HorebZ/HorebZ: ★6</a>
+* <a href="https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★6</a>
 * <a href="https://github.com/HorebZ/105torus">HorebZ/105torus: ★4</a>
 * <a href="https://github.com/HorebZ/110borwein">HorebZ/110borwein: ★4</a>
 * <a href="https://github.com/HorebZ/202unsold">HorebZ/202unsold: ★4</a>
