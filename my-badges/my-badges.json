@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/3ed324ca71f5f58c1252885ce4e78ff5f6edc3f3\">3ed324c</a>: chore: update .gitignore to include .vscode directory",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ae4e2ea7701d369013c3c61bf928909183447b1c\">ae4e2ea</a>: chore: remove skills-lock.json file as part of the cleanup of Svelte-related resources",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 315 times)\n2. badges (used 247 times)\n3. readme.md (used 38 times)\n4. add (used 37 times)\n5. theme (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 349 times)\n2. badges (used 250 times)\n3. add (used 60 times)\n4. readme.md (used 43 times)\n5. improved (used 37 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Epitech_project/commit/eb8856212734eb6f034ec58dd9591313d4721160\">eb88562</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/b4d5c4d410e14b3aab8983756b5dd36a711cb89d\">b4d5c4d</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -80,14 +80,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/bee11b752938c999813c2c64dfbade4b1fe069a7\">bee11b7</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5232aa13f8b8530713c59f3735ace17ddd5284fa\">5232aa1</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/2a1323fb9a118f5a21bc2450c0229df1987c9e70\">2a1323f</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/3f6f156e12c6b7a84c698aa1eaa2a9166d6526f5\">3f6f156</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/68dc4179520b7da4ecf6282895f2d6546f488486\">68dc417</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/2327bb3d0a15ae43640f185fb05787a7443f0309\">2327bb3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/46e484aeb21d7cf57a6272fa308ca8fd5a3f28c1\">46e484a</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/4d6432f25aed407798ad842d43726df3e0e5a098\">4d6432f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ae4e2ea7701d369013c3c61bf928909183447b1c\">ae4e2ea</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/b4d5c4d410e14b3aab8983756b5dd36a711cb89d\">b4d5c4d</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/44bb628f3566a63dc068ce407d034d66fcbe0019\">44bb628</a>\n- <a href=\"https://github.com/HorebZ/dev-skills/commit/0a5bba2d64b780535a90206a5aac9f122b748060\">0a5bba2</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5648ec17e31f2bba61e38baa93503d0dc2fae8e5\">5648ec1</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>\n- <a href=\"https://github.com/HorebZ/Epitech_project/commit/f6d69346d285ca1adbd9596089d3296fac85f03f\">f6d6934</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/7a572afd131fdd86276f1134cdaaf8ac78f87a58\">7a572af</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/c739104de5251d777114c7f389d7eee38cdfa566\">c739104</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9fd3b8fc8b62a787c10280475f7e83b7726c3921\">9fd3b8f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/620b1d0ca6e75525c705ec0959c5703d85c48f6e\">620b1d0</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5648ec17e31f2bba61e38baa93503d0dc2fae8e5\">5648ec1</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -187,5 +187,19 @@
     "desc": "I collected 100 stars.",
     "body": "Repos:\n\n* <a href=\"https://github.com/HorebZ/push_swap\">HorebZ/push_swap: ★12</a>\n* <a href=\"https://github.com/HorebZ/Popeye\">HorebZ/Popeye: ★9</a>\n* <a href=\"https://github.com/HorebZ/Need4Stek\">HorebZ/Need4Stek: ★8</a>\n* <a href=\"https://github.com/HorebZ/Epitech_project\">HorebZ/Epitech_project: ★7</a>\n* <a href=\"https://github.com/HorebZ/42sh\">HorebZ/42sh: ★7</a>\n* <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ: ★7</a>\n* <a href=\"https://github.com/HorebZ/101pong\">HorebZ/101pong: ★6</a>\n* <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★6</a>\n* <a href=\"https://github.com/HorebZ/105torus\">HorebZ/105torus: ★4</a>\n* <a href=\"https://github.com/HorebZ/110borwein\">HorebZ/110borwein: ★4</a>\n* <a href=\"https://github.com/HorebZ/202unsold\">HorebZ/202unsold: ★4</a>\n* <a href=\"https://github.com/HorebZ/205IQ\">HorebZ/205IQ: ★4</a>\n* <a href=\"https://github.com/HorebZ/CAESAR\">HorebZ/CAESAR: ★4</a>\n* <a href=\"https://github.com/tscherrer05/code-names\">tscherrer05/code-names: ★2</a>\n* <a href=\"https://github.com/HorebZ/Badges4-README.md-Profile\">HorebZ/Badges4-README.md-Profile: ★2</a>\n* <a href=\"https://github.com/HorebZ/github-readme-stats\">HorebZ/github-readme-stats: ★2</a>\n* <a href=\"https://github.com/HorebZ/aura-theme\">HorebZ/aura-theme: ★2</a>\n* <a href=\"https://github.com/HorebZ/Wedding-site-front\">HorebZ/Wedding-site-front: ★2</a>\n* <a href=\"https://github.com/HorebZ/Safecube-TechnicalTest\">HorebZ/Safecube-TechnicalTest: ★1</a>\n* <a href=\"https://github.com/HorebZ/django-elasticsearch-dsl\">HorebZ/django-elasticsearch-dsl: ★1</a>\n* <a href=\"https://github.com/HorebZ/glados-domotics-api\">HorebZ/glados-domotics-api: ★1</a>\n* <a href=\"https://github.com/HorebZ/glados-domotics-front\">HorebZ/glados-domotics-front: ★1</a>\n* <a href=\"https://github.com/HorebZ/msc-competency-framework\">HorebZ/msc-competency-framework: ★1</a>\n* <a href=\"https://github.com/HorebZ/first-contributions\">HorebZ/first-contributions: ★1</a>\n* <a href=\"https://github.com/HorebZ/vendor-system\">HorebZ/vendor-system: ★1</a>\n* <a href=\"https://github.com/HorebZ/docs\">HorebZ/docs: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/dc45319e26d593d728636bc0e806a38164adf3f3\">dc45319</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/46e484aeb21d7cf57a6272fa308ca8fd5a3f28c1\">46e484a</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ed150567e6b4451e26a7fe8927310c40f2c229d4\">ed15056</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/81ebc0d3a7cda9417e3adfc2a164a3cc992e1358\">81ebc0d</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/7b6e526f102d6924acc305da4bc573647e3bfdb7\">7b6e526</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/17b85d4e41992907460d17b9f4b0af8ff92f40b8\">17b85d4</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/44bb628f3566a63dc068ce407d034d66fcbe0019\">44bb628</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]
