@@ -4,14 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/HorebZ/push_swap">HorebZ/push_swap: ★12</a>
-* <a href="https://github.com/HorebZ/Popeye">HorebZ/Popeye: ★9</a>
-* <a href="https://github.com/HorebZ/Need4Stek">HorebZ/Need4Stek: ★8</a>
-* <a href="https://github.com/HorebZ/Epitech_project">HorebZ/Epitech_project: ★7</a>
+* <a href="https://github.com/HorebZ/push_swap">HorebZ/push_swap: ★13</a>
+* <a href="https://github.com/HorebZ/Popeye">HorebZ/Popeye: ★10</a>
+* <a href="https://github.com/HorebZ/Need4Stek">HorebZ/Need4Stek: ★9</a>
+* <a href="https://github.com/HorebZ/Epitech_project">HorebZ/Epitech_project: ★8</a>
 * <a href="https://github.com/HorebZ/42sh">HorebZ/42sh: ★7</a>
 * <a href="https://github.com/HorebZ/HorebZ">HorebZ/HorebZ: ★7</a>
+* <a href="https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★7</a>
 * <a href="https://github.com/HorebZ/101pong">HorebZ/101pong: ★6</a>
-* <a href="https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★6</a>
 * <a href="https://github.com/HorebZ/105torus">HorebZ/105torus: ★4</a>
 * <a href="https://github.com/HorebZ/110borwein">HorebZ/110borwein: ★4</a>
 * <a href="https://github.com/HorebZ/202unsold">HorebZ/202unsold: ★4</a>
@@ -30,6 +30,8 @@ Repos:
 * <a href="https://github.com/HorebZ/first-contributions">HorebZ/first-contributions: ★1</a>
 * <a href="https://github.com/HorebZ/vendor-system">HorebZ/vendor-system: ★1</a>
 * <a href="https://github.com/HorebZ/docs">HorebZ/docs: ★1</a>
+* <a href="https://github.com/HorebZ/Horebz_scrolls">HorebZ/Horebz_scrolls: ★1</a>
+* <a href="https://github.com/HorebZ/CDM-2026">HorebZ/CDM-2026: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
