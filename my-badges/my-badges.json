@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 361 times)\n2. badges (used 256 times)\n3. add (used 65 times)\n4. readme.md (used 43 times)\n5. improved (used 41 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 362 times)\n2. badges (used 257 times)\n3. add (used 65 times)\n4. readme.md (used 43 times)\n5. improved (used 41 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -61,13 +61,6 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>\n- <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "sleepy-coder",
