@@ -53,6 +53,7 @@ I'm a Husband / Father of two / software engineer from france 🇫🇷
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="56"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="56"></a>
 <a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="56"></a>
+<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 2 my own repositories." title="I&apos;ve starred 2 my own repositories." width="56"></a>
 <!-- my-badges end -->
 
 </div>
