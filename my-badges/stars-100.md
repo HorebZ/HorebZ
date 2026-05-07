@@ -32,6 +32,7 @@ Repos:
 * <a href="https://github.com/HorebZ/docs">HorebZ/docs: ★1</a>
 * <a href="https://github.com/HorebZ/Horebz_scrolls">HorebZ/Horebz_scrolls: ★1</a>
 * <a href="https://github.com/HorebZ/CDM-2026">HorebZ/CDM-2026: ★1</a>
+* <a href="https://github.com/HorebZ/dev-skills">HorebZ/dev-skills: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
