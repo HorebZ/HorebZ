@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 379 times)\n2. badges (used 274 times)\n3. add (used 66 times)\n4. readme.md (used 44 times)\n5. improved (used 41 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 380 times)\n2. badges (used 275 times)\n3. add (used 66 times)\n4. readme.md (used 44 times)\n5. improved (used 41 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -194,13 +194,6 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/44bb628f3566a63dc068ce407d034d66fcbe0019\">44bb628</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>\n- <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "may-the-4th",
