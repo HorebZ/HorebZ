@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 383 times)\n2. badges (used 278 times)\n3. add (used 66 times)\n4. readme.md (used 44 times)\n5. improved (used 41 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 384 times)\n2. badges (used 279 times)\n3. add (used 67 times)\n4. readme.md (used 44 times)\n5. improved (used 41 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -201,5 +201,12 @@
     "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/a7a334b8293d15a8f8c3f42c5a3e48cfcd6d8706\">a7a334b</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>\n- <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
