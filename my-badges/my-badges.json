@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 393 times)\n2. badges (used 287 times)\n3. add (used 67 times)\n4. readme.md (used 44 times)\n5. improved (used 43 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 395 times)\n2. badges (used 288 times)\n3. add (used 67 times)\n4. readme.md (used 44 times)\n5. improved (used 43 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -201,5 +201,19 @@
     "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/a7a334b8293d15a8f8c3f42c5a3e48cfcd6d8706\">a7a334b</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/bd37d7c50d96e3afd7af73e2a3107e3b4dff34c8\">bd37d7c</a>: fix match result presentation\n\nCo-authored-by: Cursor <cursoragent@cursor.com>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1156433ad88f24870693f06b40581495ac308a23\">1156433</a>: fix mobile match metadata layout\n\nCo-authored-by: Cursor <cursoragent@cursor.com>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/13708a2b5380facffe11d32796ff350a3d863f4a\">13708a2</a>: fix mobile flags grid spacing\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>\n- <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
