@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 408 times)\n2. badges (used 294 times)\n3. add (used 74 times)\n4. match (used 56 times)\n5. improved (used 46 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 410 times)\n2. badges (used 295 times)\n3. add (used 75 times)\n4. match (used 58 times)\n5. improved (used 46 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -215,5 +215,12 @@
     "desc": "I've starred 2 my own repositories.",
     "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>\n- <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/96311990f9750bbbc1b8c6b51df7b7647ab15074\">9631199</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
   }
 ]
