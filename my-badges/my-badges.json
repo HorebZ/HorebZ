@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 425 times)\n2. badges (used 302 times)\n3. add (used 88 times)\n4. match (used 72 times)\n5. improved (used 51 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 432 times)\n2. badges (used 303 times)\n3. add (used 91 times)\n4. match (used 81 times)\n5. improved (used 52 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/e0cc284f3d48cdba661ef666567d1bb7038031e0\">e0cc284</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/f18e32ec2997000a97f1b87996edeb83bb72f9e1\">f18e32e</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/283876425e71106b711ba434eec20db65034d8cc\">2838764</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ea8a8310b638eba9a29c0418b648c9bf29d7e5cd\">ea8a831</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/bf05963f6c53dd080e5866fc0e42a6b92db0e27f\">bf05963</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/0cb95a95a43a914433f03cd73ea672432bcb4661\">0cb95a9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1de281722609d1262c618346d2680533cab019c2\">1de2817</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/898cfb745b6dc2ea497d18f9cc951275f79b7088\">898cfb7</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/205eeb8dc1c8ba5eb7b6b3d37fff2c6d09a1f8e6\">205eeb8</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/c10e6551c2cd01e3f60612024e6e92dc3c36bab7\">c10e655</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/353fe6f732d047b6d70ac53b710886fb293c2beb\">353fe6f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/8d509181d43ee198e6a44fd180445f9e5c82eda2\">8d50918</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/fa000ebb7b094f0a0962acdac84cc13f53cee4de\">fa000eb</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/17fa901d858e1737e1490b654421f0510f17dde3\">17fa901</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/e8d85a79def4fc5e2f9390c0a800bcd64382d97a\">e8d85a7</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ab0811b82eeead9dffc7dbe7756e55526330c8e8\">ab0811b</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/404465dafce9df448f369adc45aff4b3facf7a76\">404465d</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/d18869e20f990a2eea3cfec9a3313406a12d3ada\">d18869e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/69bffb4e3a2ce64117618063d6b27e34b7246a7f\">69bffb4</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/a0c73aa41e8eb7bf69402772c14659b709d25cc1\">a0c73aa</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/fa000ebb7b094f0a0962acdac84cc13f53cee4de\">fa000eb</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/17fa901d858e1737e1490b654421f0510f17dde3\">17fa901</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/e8d85a79def4fc5e2f9390c0a800bcd64382d97a\">e8d85a7</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ab0811b82eeead9dffc7dbe7756e55526330c8e8\">ab0811b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -185,7 +185,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9e46e6f192af0ba8449fe14b598a529fe7f3e678\">9e46e6f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/4315f50f7f9f2a2261212f51842712c9a360b7b8\">4315f50</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/2d08f4b3d401f37cbb9ff373491aa063c58811b2\">2d08f4b</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/90c8611ec3ef3458020f731d985d06a80fbac390\">90c8611</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/d73909d9954065c29dcb88b95ab0f96c431e412d\">d73909d</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/bd2cd047dd6c090af08da72abe86ec90295ebee7\">bd2cd04</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/b7dd3220582142c8cc4f4abe7e604b294d037d41\">b7dd322</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9e46e6f192af0ba8449fe14b598a529fe7f3e678\">9e46e6f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/4315f50f7f9f2a2261212f51842712c9a360b7b8\">4315f50</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/2d08f4b3d401f37cbb9ff373491aa063c58811b2\">2d08f4b</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/90c8611ec3ef3458020f731d985d06a80fbac390\">90c8611</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/d73909d9954065c29dcb88b95ab0f96c431e412d\">d73909d</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -208,13 +208,6 @@
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/bd37d7c50d96e3afd7af73e2a3107e3b4dff34c8\">bd37d7c</a>: fix match result presentation\n\nCo-authored-by: Cursor <cursoragent@cursor.com>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1156433ad88f24870693f06b40581495ac308a23\">1156433</a>: fix mobile match metadata layout\n\nCo-authored-by: Cursor <cursoragent@cursor.com>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/13708a2b5380facffe11d32796ff350a3d863f4a\">13708a2</a>: fix mobile flags grid spacing\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>\n- <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "summer-solstice-commits",
