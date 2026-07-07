@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 439 times)\n2. badges (used 305 times)\n3. add (used 97 times)\n4. match (used 88 times)\n5. improved (used 54 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 442 times)\n2. badges (used 306 times)\n3. add (used 98 times)\n4. match (used 90 times)\n5. improved (used 54 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/7a572afd131fdd86276f1134cdaaf8ac78f87a58\">7a572af</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/c739104de5251d777114c7f389d7eee38cdfa566\">c739104</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9fd3b8fc8b62a787c10280475f7e83b7726c3921\">9fd3b8f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/620b1d0ca6e75525c705ec0959c5703d85c48f6e\">620b1d0</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5648ec17e31f2bba61e38baa93503d0dc2fae8e5\">5648ec1</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/59d50361574ca9a132c5fb774ee9db8ebca1906c\">59d5036</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/7a572afd131fdd86276f1134cdaaf8ac78f87a58\">7a572af</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/c739104de5251d777114c7f389d7eee38cdfa566\">c739104</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9fd3b8fc8b62a787c10280475f7e83b7726c3921\">9fd3b8f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/620b1d0ca6e75525c705ec0959c5703d85c48f6e\">620b1d0</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5648ec17e31f2bba61e38baa93503d0dc2fae8e5\">5648ec1</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
