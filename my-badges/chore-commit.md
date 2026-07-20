@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/CDM-2026/commit/12e087e3278f9a997c19aad48e53de2483cc2cf7">12e087e</a>: chore: update Playwright version to 1.59.1, enhance ESLint rules for Svelte, add Content Security Policy in Svelte config, and improve meta tags for SEO in layout
+- <a href="https://github.com/HorebZ/CDM-2026/commit/db0780dcc397d3dd18b1432e217b8dfd0ed7be8f">db0780d</a>: chore: comment out workflow triggers in update-match-results.yml
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
