@@ -12,14 +12,11 @@ jobs:
   my-badges:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Git
-        run: |
-          git config --global user.name "HorebZ"
-          git config --global user.email ${{ secrets.GIT_AUTHOR_EMAIL }}
-
       - name: Update My Badges
-        run: npx update-my-badges ${{ github.repository_owner }} --size=56
+        run: npx update-my-badges@1.0.247 ${{ github.repository_owner }} --size=56
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GIT_AUTHOR_NAME: "HorebZ"
-          GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.MY_BADGES_TOKEN }}
+          GIT_AUTHOR_NAME: ${{ vars.GIT_AUTHOR_NAME }}
+          GIT_AUTHOR_EMAIL: ${{ vars.GIT_AUTHOR_EMAIL }}
+          GIT_COMMITTER_NAME: ${{ vars.GIT_AUTHOR_NAME }}
+          GIT_COMMITTER_EMAIL: ${{ vars.GIT_AUTHOR_EMAIL }}
