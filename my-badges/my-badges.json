@@ -40,5 +40,215 @@
     "desc": "I contributed to My Badges!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/140\">#140</a>: docs(README): replace default github token by classic PAT",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/HorebZ/Epitech_project/commit/ae0cb63e299301351f7bdc873e95244d0d6cc3ae\"><strong>a</strong>e0cb63e299301351f7bdc873e95244d0d6cc3ae</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/HorebZ/Epitech_project/commit/ab9e9d4fa9611ce52d767147b7f0817f2728d232\"><strong>ab</strong>9e9d4fa9611ce52d767147b7f0817f2728d232</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abc396e0dce40a22696b98b5e77cbb7ef78e6979\"><strong>abc</strong>396e0dce40a22696b98b5e77cbb7ef78e6979</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "abcd-commit",
+    "tier": 4,
+    "desc": "One of my commit sha starts with \"abcd\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcd2d6b7be7186b552d4ba23aa3f10332fdb02a\"><strong>abcd</strong>2d6b7be7186b552d4ba23aa3f10332fdb02a</a>",
+    "image": "https://my-badges.github.io/my-badges/abcd-commit.png"
+  },
+  {
+    "id": "abcde-commit",
+    "tier": 5,
+    "desc": "One of my commit sha starts with \"abcde\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcde7c74c5600e5e1a975d8e5a03ba9da575aa5\"><strong>abcde</strong>7c74c5600e5e1a975d8e5a03ba9da575aa5</a>",
+    "image": "https://my-badges.github.io/my-badges/abcde-commit.png"
+  },
+  {
+    "id": "abcdef-commit",
+    "tier": 6,
+    "desc": "One of my commit sha starts with \"abcdef\".",
+    "body": "- <a href=\"https://github.com/HorebZ/HorebZ/commit/abcdef9ec68af4fc179f5b47bb93535b0cd0df90\"><strong>abcdef</strong>9ec68af4fc179f5b47bb93535b0cd0df90</a>",
+    "image": "https://my-badges.github.io/my-badges/abcdef-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/db0780dcc397d3dd18b1432e217b8dfd0ed7be8f\">db0780d</a>: chore: comment out workflow triggers in update-match-results.yml",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/32f0f922706834f33359b8ac1325ffcbba7422c4\">32f0f92</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5aa707ac978085063058935b5769e3a8f5a2f756\">5aa707a</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/d8b432165db2690ce1fc7ea179fce2666352a26c\">d8b4321</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/53521385060a2f46cea3fae13f9d105569257741\">5352138</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/b7dd3220582142c8cc4f4abe7e604b294d037d41\">b7dd322</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9e46e6f192af0ba8449fe14b598a529fe7f3e678\">9e46e6f</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/609b21f0ca9ab450248a2805281e6249ce1f4933\">609b21f</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ba2f8874a3b30d1603f292d41f2df3f413cc10c5\">ba2f887</a>: 🎉🚀🔥",
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/65f32d90b83091be7133ad2c2fe33aed526ae6f8\">65f32d9</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/8e48d0ba38071f7422e698e22e8cee75c74ca286\">8e48d0b</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 476 times)\n2. badges (used 324 times)\n3. add (used 102 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/bd37d7c50d96e3afd7af73e2a3107e3b4dff34c8\">bd37d7c</a>: fix match result presentation\n\nCo-authored-by: Cursor <cursoragent@cursor.com>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1156433ad88f24870693f06b40581495ac308a23\">1156433</a>: fix mobile match metadata layout\n\nCo-authored-by: Cursor <cursoragent@cursor.com>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/13708a2b5380facffe11d32796ff350a3d863f4a\">13708a2</a>: fix mobile flags grid spacing\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/5e6cdfe763c0d34c0070e3433776a7e1a0b670ab\">5e6cdfe</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/8aa9b78c7128580bdb34c990d4bc0ed2f9d7e891\">8aa9b78</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/e40e14ecbaa3b6a76257f62e0b12f59238df50f4\">e40e14e</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/b4d5c4d410e14b3aab8983756b5dd36a711cb89d\">b4d5c4d</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/44bb628f3566a63dc068ce407d034d66fcbe0019\">44bb628</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/a7a334b8293d15a8f8c3f42c5a3e48cfcd6d8706\">a7a334b</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/bee11b752938c999813c2c64dfbade4b1fe069a7\">bee11b7</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5232aa13f8b8530713c59f3735ace17ddd5284fa\">5232aa1</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/71e6b89430da4d9d268906c1c607f29dda370721\">71e6b89</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/557bd050dc25d762d114277178739894cdf568ea\">557bd05</a>",
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/be8be3745775a1959fc4f2a7120585a34712f7b2\">be8be37</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/96311990f9750bbbc1b8c6b51df7b7647ab15074\">9631199</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/dba5a5bd79c10b4b0a6499e816cc040fa217e237\">dba5a5b</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/93b90cc5c22db71f2b1949659a5fb23228e1f9d8\">93b90cc</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine</a>\n- <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/HorebZ/Popeye\">HorebZ/Popeye: ★10</a>\n* <a href=\"https://github.com/HorebZ/Need4Stek\">HorebZ/Need4Stek: ★9</a>\n* <a href=\"https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine\">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★9</a>\n* <a href=\"https://github.com/HorebZ/Epitech_project\">HorebZ/Epitech_project: ★8</a>\n* <a href=\"https://github.com/HorebZ/HorebZ\">HorebZ/HorebZ: ★8</a>\n* <a href=\"https://github.com/HorebZ/42sh\">HorebZ/42sh: ★7</a>\n* <a href=\"https://github.com/HorebZ/101pong\">HorebZ/101pong: ★6</a>\n* <a href=\"https://github.com/HorebZ/105torus\">HorebZ/105torus: ★4</a>\n* <a href=\"https://github.com/HorebZ/110borwein\">HorebZ/110borwein: ★4</a>\n* <a href=\"https://github.com/HorebZ/202unsold\">HorebZ/202unsold: ★4</a>\n* <a href=\"https://github.com/HorebZ/205IQ\">HorebZ/205IQ: ★4</a>\n* <a href=\"https://github.com/HorebZ/CAESAR\">HorebZ/CAESAR: ★4</a>\n* <a href=\"https://github.com/HorebZ/Horebz_scrolls\">HorebZ/Horebz_scrolls: ★4</a>\n* <a href=\"https://github.com/HorebZ/CDM-2026\">HorebZ/CDM-2026: ★3</a>\n* <a href=\"https://github.com/HorebZ/dev-skills\">HorebZ/dev-skills: ★3</a>\n* <a href=\"https://github.com/tscherrer05/code-names\">tscherrer05/code-names: ★2</a>\n* <a href=\"https://github.com/HorebZ/Badges4-README.md-Profile\">HorebZ/Badges4-README.md-Profile: ★2</a>\n* <a href=\"https://github.com/HorebZ/github-readme-stats\">HorebZ/github-readme-stats: ★2</a>\n* <a href=\"https://github.com/HorebZ/aura-theme\">HorebZ/aura-theme: ★2</a>\n* <a href=\"https://github.com/HorebZ/Wedding-site-front\">HorebZ/Wedding-site-front: ★2</a>\n* <a href=\"https://github.com/HorebZ/Safecube-TechnicalTest\">HorebZ/Safecube-TechnicalTest: ★1</a>\n* <a href=\"https://github.com/HorebZ/django-elasticsearch-dsl\">HorebZ/django-elasticsearch-dsl: ★1</a>\n* <a href=\"https://github.com/HorebZ/glados-domotics-api\">HorebZ/glados-domotics-api: ★1</a>\n* <a href=\"https://github.com/HorebZ/glados-domotics-front\">HorebZ/glados-domotics-front: ★1</a>\n* <a href=\"https://github.com/HorebZ/msc-competency-framework\">HorebZ/msc-competency-framework: ★1</a>\n* <a href=\"https://github.com/HorebZ/first-contributions\">HorebZ/first-contributions: ★1</a>\n* <a href=\"https://github.com/HorebZ/vendor-system\">HorebZ/vendor-system: ★1</a>\n* <a href=\"https://github.com/HorebZ/docs\">HorebZ/docs: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Safecube-TechnicalTest/commit/211f3946e95b24cae6e170dd9d3dba50f6cb733a\">211f394</a>\n- <a href=\"https://github.com/HorebZ/Safecube-TechnicalTest/commit/e1d86c1c0551883699b93e1658e28e619f05443a\">e1d86c1</a>\n- <a href=\"https://github.com/HorebZ/Epitech_project/commit/ab9e9d4fa9611ce52d767147b7f0817f2728d232\">ab9e9d4</a>\n- <a href=\"https://github.com/HorebZ/Popeye/commit/2f62cc8cca582982bc95ce3a4240f2b71c8b67c9\">2f62cc8</a>\n- <a href=\"https://github.com/HorebZ/Popeye/commit/29a38af12d046fb4cf290b667191cfbd6d2c7b0d\">29a38af</a>\n- <a href=\"https://github.com/HorebZ/Popeye/commit/7526098d5ef586bb7af20745226b0e9a8890ec6e\">7526098</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/37f3d0bb1d8d05d8717d9a8b7edac1705b2b1010\">37f3d0b</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/64755dbc0bf5ab8326a48d835695a39c09f3496c\">64755db</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ff1ddaee4ccd938bd2c797b0ab2af8fe5320bf3a\">ff1ddae</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/69bffb4e3a2ce64117618063d6b27e34b7246a7f\">69bffb4</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/a0c73aa41e8eb7bf69402772c14659b709d25cc1\">a0c73aa</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/fa000ebb7b094f0a0962acdac84cc13f53cee4de\">fa000eb</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ea5a71adb48a3bf7a58cdc6f93a7692ce3c1db61\">ea5a71a</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/c18f14c5d01da0d6ae95f246f479e9ae106f71e7\">c18f14c</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/3b5a433a8de9b0dc0ab430ad54b924fe2d9e8752\">3b5a433</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/031f185ca3f36ac07cc766bcddb8985f68ba6047\">031f185</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1ad2bd783d2a51eb97fec32002311862588c667c\">1ad2bd7</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1c42627fb44a60b435a930ecd6b8ea1560611b9e\">1c42627</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/59d50361574ca9a132c5fb774ee9db8ebca1906c\">59d5036</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/7a572afd131fdd86276f1134cdaaf8ac78f87a58\">7a572af</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/c739104de5251d777114c7f389d7eee38cdfa566\">c739104</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9fd3b8fc8b62a787c10280475f7e83b7726c3921\">9fd3b8f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/620b1d0ca6e75525c705ec0959c5703d85c48f6e\">620b1d0</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5648ec17e31f2bba61e38baa93503d0dc2fae8e5\">5648ec1</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "yeti",
+    "tier": 0,
+    "desc": "I found the yeti!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0e13897689f27ae03562a6bd04c54ac3e147e374\">0e13897</a>",
+    "image": "https://my-badges.github.io/my-badges/yeti.png"
   }
 ]
