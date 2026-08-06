@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 476 times)\n2. badges (used 324 times)\n3. add (used 102 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 477 times)\n2. badges (used 325 times)\n3. add (used 102 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ea5a71adb48a3bf7a58cdc6f93a7692ce3c1db61\">ea5a71a</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/c18f14c5d01da0d6ae95f246f479e9ae106f71e7\">c18f14c</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/3b5a433a8de9b0dc0ab430ad54b924fe2d9e8752\">3b5a433</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/031f185ca3f36ac07cc766bcddb8985f68ba6047\">031f185</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1ad2bd783d2a51eb97fec32002311862588c667c\">1ad2bd7</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1c42627fb44a60b435a930ecd6b8ea1560611b9e\">1c42627</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/39f81309ea9809d7106a7b83c84f6f11d0b3fd2e\">39f8130</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ea5a71adb48a3bf7a58cdc6f93a7692ce3c1db61\">ea5a71a</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/c18f14c5d01da0d6ae95f246f479e9ae106f71e7\">c18f14c</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/3b5a433a8de9b0dc0ab430ad54b924fe2d9e8752\">3b5a433</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/031f185ca3f36ac07cc766bcddb8985f68ba6047\">031f185</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1ad2bd783d2a51eb97fec32002311862588c667c\">1ad2bd7</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
