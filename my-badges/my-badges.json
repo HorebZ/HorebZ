@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 484 times)\n2. badges (used 332 times)\n3. add (used 102 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 485 times)\n2. badges (used 333 times)\n3. add (used 102 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -227,7 +227,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/37f3d0bb1d8d05d8717d9a8b7edac1705b2b1010\">37f3d0b</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/64755dbc0bf5ab8326a48d835695a39c09f3496c\">64755db</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ff1ddaee4ccd938bd2c797b0ab2af8fe5320bf3a\">ff1ddae</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/69bffb4e3a2ce64117618063d6b27e34b7246a7f\">69bffb4</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/a0c73aa41e8eb7bf69402772c14659b709d25cc1\">a0c73aa</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/fa000ebb7b094f0a0962acdac84cc13f53cee4de\">fa000eb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/dd2bdc50045440d34b294755defebe808eb146a4\">dd2bdc5</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/37f3d0bb1d8d05d8717d9a8b7edac1705b2b1010\">37f3d0b</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/64755dbc0bf5ab8326a48d835695a39c09f3496c\">64755db</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/ff1ddaee4ccd938bd2c797b0ab2af8fe5320bf3a\">ff1ddae</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/69bffb4e3a2ce64117618063d6b27e34b7246a7f\">69bffb4</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/a0c73aa41e8eb7bf69402772c14659b709d25cc1\">a0c73aa</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
