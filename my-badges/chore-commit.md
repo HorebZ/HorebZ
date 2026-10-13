@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/CDM-2026/commit/db0780dcc397d3dd18b1432e217b8dfd0ed7be8f">db0780d</a>: chore: comment out workflow triggers in update-match-results.yml
+- <a href="https://github.com/HorebZ/Planche/commit/4f7ede2e18004446d70381225424cca562a1532c">4f7ede2</a>: chore: seed script for the Planche Sandbox project
+
+Co-authored-by: Cursor <cursoragent@cursor.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

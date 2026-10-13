@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/db0780dcc397d3dd18b1432e217b8dfd0ed7be8f\">db0780d</a>: chore: comment out workflow triggers in update-match-results.yml",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/4f7ede2e18004446d70381225424cca562a1532c\">4f7ede2</a>: chore: seed script for the Planche Sandbox project\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 525 times)\n2. badges (used 372 times)\n3. add (used 103 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 526 times)\n2. badges (used 373 times)\n3. add (used 104 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/39f81309ea9809d7106a7b83c84f6f11d0b3fd2e\">39f8130</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ea5a71adb48a3bf7a58cdc6f93a7692ce3c1db61\">ea5a71a</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/c18f14c5d01da0d6ae95f246f479e9ae106f71e7\">c18f14c</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/3b5a433a8de9b0dc0ab430ad54b924fe2d9e8752\">3b5a433</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/031f185ca3f36ac07cc766bcddb8985f68ba6047\">031f185</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/1ad2bd783d2a51eb97fec32002311862588c667c\">1ad2bd7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/81db82ea97ac9ad8978f15574e32fcff0a19f8fe\">81db82e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/39f81309ea9809d7106a7b83c84f6f11d0b3fd2e\">39f8130</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ea5a71adb48a3bf7a58cdc6f93a7692ce3c1db61\">ea5a71a</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/c18f14c5d01da0d6ae95f246f479e9ae106f71e7\">c18f14c</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/3b5a433a8de9b0dc0ab430ad54b924fe2d9e8752\">3b5a433</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/031f185ca3f36ac07cc766bcddb8985f68ba6047\">031f185</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
