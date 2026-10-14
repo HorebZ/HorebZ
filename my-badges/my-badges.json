@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/4f7ede2e18004446d70381225424cca562a1532c\">4f7ede2</a>: chore: seed script for the Planche Sandbox project\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/09c36b55918b080f3495596699a9eed6f33bfc81\">09c36b5</a>: chore: drop the sandbox seed, live tests use the real Planche project\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 526 times)\n2. badges (used 373 times)\n3. add (used 104 times)\n4. match (used 96 times)\n5. improved (used 54 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 527 times)\n2. badges (used 374 times)\n3. add (used 104 times)\n4. match (used 96 times)\n5. co-authored-by: (used 58 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

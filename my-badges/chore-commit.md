@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/4f7ede2e18004446d70381225424cca562a1532c">4f7ede2</a>: chore: seed script for the Planche Sandbox project
+- <a href="https://github.com/HorebZ/Planche/commit/09c36b55918b080f3495596699a9eed6f33bfc81">09c36b5</a>: chore: drop the sandbox seed, live tests use the real Planche project
 
 Co-authored-by: Cursor <cursoragent@cursor.com>
 
