@@ -61,6 +61,7 @@ I'm a Husband / Father of two / software engineer from france 🇫🇷
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="56"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="56"></a>
 <a href="my-badges/yeti.md"><img src="https://my-badges.github.io/my-badges/yeti.png" alt="I found the yeti!" title="I found the yeti!" width="56"></a>
+<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="56"></a>
 <!-- my-badges end -->
 
 </div>

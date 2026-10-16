@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/81db82ea97ac9ad8978f15574e32fcff0a19f8fe">81db82e</a>
-- <a href="https://github.com/HorebZ/HorebZ/commit/39f81309ea9809d7106a7b83c84f6f11d0b3fd2e">39f8130</a>
-- <a href="https://github.com/HorebZ/HorebZ/commit/ea5a71adb48a3bf7a58cdc6f93a7692ce3c1db61">ea5a71a</a>
-- <a href="https://github.com/HorebZ/scenic-rs/commit/c18f14c5d01da0d6ae95f246f479e9ae106f71e7">c18f14c</a>
-- <a href="https://github.com/HorebZ/scenic-rs/commit/3b5a433a8de9b0dc0ab430ad54b924fe2d9e8752">3b5a433</a>
-- <a href="https://github.com/HorebZ/CDM-2026/commit/031f185ca3f36ac07cc766bcddb8985f68ba6047">031f185</a>
+- <a href="https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215">f0af8ef</a>
+- <a href="https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037">84ed7bc</a>
+- <a href="https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221">618ed13</a>
+- <a href="https://github.com/HorebZ/Planche/commit/7a125e33855349f6ec4241bf930b5800225c0bc0">7a125e3</a>
+- <a href="https://github.com/HorebZ/Planche/commit/68c3ae9a799023823a42890b064d61f634b82857">68c3ae9</a>
+- <a href="https://github.com/HorebZ/Planche/commit/22382f31656ecff99e8ba64f4bc0c56d68b8e9db">22382f3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

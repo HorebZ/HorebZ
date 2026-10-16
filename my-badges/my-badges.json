@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/09c36b55918b080f3495596699a9eed6f33bfc81\">09c36b5</a>: chore: drop the sandbox seed, live tests use the real Planche project\n\nCo-authored-by: Cursor <cursoragent@cursor.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/1af97d0b2ba8b845c128889fd36e2b3d3e3d84bf\">1af97d0</a>: chore(design): reorganize the brand assets by kind\n\n- icon/: the app icon SVGs (with shadow, small, flat), PNG exports, the\n  AppIcon.iconset and AppIcon.appiconset with @2x names, and AppIcon.icns\n  built with iconutil.\n- logotype/: the PLANCHE. wordmark and the lockup in ink, paper, black\n  and white, as SVG and PNG.\n- menubar/: plancheTemplate in SVG and @1x, @2x and @3x PNG.\n- The handoff README lists the new layout. RENAME.sh is applied and gone.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -115,14 +115,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/65f32d90b83091be7133ad2c2fe33aed526ae6f8\">65f32d9</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/8e48d0ba38071f7422e698e22e8cee75c74ca286\">8e48d0b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/7a125e33855349f6ec4241bf930b5800225c0bc0\">7a125e3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/68c3ae9a799023823a42890b064d61f634b82857\">68c3ae9</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/09e2b9b87c2ff5e019b34057254efa05a8c847ac\">09e2b9b</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/1af97d0b2ba8b845c128889fd36e2b3d3e3d84bf\">1af97d0</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/46ae9f38c243b817b9d4a78fec44945833411107\">46ae9f3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/0cd2a95c383f4a0a7735f7e2ee7efb9b2e159190\">0cd2a95</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/bb3fb983516a1af877567a3e4775879fbf9b08cb\">bb3fb98</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/590c85c2fa216a3c1eb13f5b4346e72d5c1ec301\">590c85c</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/1d7261f699c73d81fed3abba143c1f8edd92739f\">1d7261f</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/e9b8b9fd1a35c205603763586f2f510710d52804\">e9b8b9f</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/9a2b3ac08dff7d028d637a16350dd76ba9e874dd\">9a2b3ac</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/a95ee472554d309d437ffd774e29af16a426bc34\">a95ee47</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/de9723a08fbcee1e194a298c3ba7997ab4896b39\">de9723a</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/65f32d90b83091be7133ad2c2fe33aed526ae6f8\">65f32d9</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/8e48d0ba38071f7422e698e22e8cee75c74ca286\">8e48d0b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 528 times)\n2. badges (used 375 times)\n3. add (used 104 times)\n4. match (used 96 times)\n5. co-authored-by: (used 62 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 529 times)\n2. badges (used 376 times)\n3. co-authored-by: (used 110 times)\n4. add (used 104 times)\n5. match (used 99 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/81db82ea97ac9ad8978f15574e32fcff0a19f8fe\">81db82e</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/39f81309ea9809d7106a7b83c84f6f11d0b3fd2e\">39f8130</a>\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/ea5a71adb48a3bf7a58cdc6f93a7692ce3c1db61\">ea5a71a</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/c18f14c5d01da0d6ae95f246f479e9ae106f71e7\">c18f14c</a>\n- <a href=\"https://github.com/HorebZ/scenic-rs/commit/3b5a433a8de9b0dc0ab430ad54b924fe2d9e8752\">3b5a433</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/031f185ca3f36ac07cc766bcddb8985f68ba6047\">031f185</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215\">f0af8ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/7a125e33855349f6ec4241bf930b5800225c0bc0\">7a125e3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/68c3ae9a799023823a42890b064d61f634b82857\">68c3ae9</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/22382f31656ecff99e8ba64f4bc0c56d68b8e9db\">22382f3</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -250,5 +250,12 @@
     "desc": "I found the yeti!",
     "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/0e13897689f27ae03562a6bd04c54ac3e147e374\">0e13897</a>",
     "image": "https://my-badges.github.io/my-badges/yeti.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>: fix(app): the card stays where it is dropped, and slides back on failure\n\nFrom the live test of the drag:\n- The dropped card slid back to its origin, then settled at the drop.\n  The overlay no longer animates on its own: the card slides from where\n  it was released to its slot (FLIP, 200 ms).\n- A refused move slides the card from where it was dropped back to its\n  origin, with the same motion, in place of the view transition.\n- \"Pending\" shows on the card where it was dropped, until GitHub\n  acknowledges the move, online too.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>: fix(app): dispatch_intent answers with the move, even when it fails fast\n\nThe command read the board after asking the engine to flush. A refusal\nthat comes at once, like PLANCHE_FAULT=fail_mutations, had already\ndropped the row, so the reply showed the card back at its origin before\nthe front heard of the failure. The board is now read before the flush.\nThe app also logs each mutation on stdout, like planche sync --watch.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
