@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/1af97d0b2ba8b845c128889fd36e2b3d3e3d84bf\">1af97d0</a>: chore(design): reorganize the brand assets by kind\n\n- icon/: the app icon SVGs (with shadow, small, flat), PNG exports, the\n  AppIcon.iconset and AppIcon.appiconset with @2x names, and AppIcon.icns\n  built with iconutil.\n- logotype/: the PLANCHE. wordmark and the lockup in ink, paper, black\n  and white, as SVG and PNG.\n- menubar/: plancheTemplate in SVG and @1x, @2x and @3x PNG.\n- The handoff README lists the new layout. RENAME.sh is applied and gone.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/f225fcc8a5cd905205ca1c00cc3301385a093846\">f225fcc</a>: chore(design): apply the Apple icon names and build AppIcon.icns\n\nRENAME.sh ran once: -2x and -3x became @2x and @3x, Contents.json follows,\nand iconutil built AppIcon.icns. The script is removed, and design/README.md\nno longer asks to run it.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 529 times)\n2. badges (used 376 times)\n3. co-authored-by: (used 110 times)\n4. add (used 104 times)\n5. match (used 99 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 530 times)\n2. badges (used 377 times)\n3. co-authored-by: (used 116 times)\n4. add (used 104 times)\n5. match (used 99 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215\">f0af8ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/7a125e33855349f6ec4241bf930b5800225c0bc0\">7a125e3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/68c3ae9a799023823a42890b064d61f634b82857\">68c3ae9</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/22382f31656ecff99e8ba64f4bc0c56d68b8e9db\">22382f3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/39df5eff5a766dcc139055096c375630063ffd72\">39df5ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215\">f0af8ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/7a125e33855349f6ec4241bf930b5800225c0bc0\">7a125e3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/68c3ae9a799023823a42890b064d61f634b82857\">68c3ae9</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
