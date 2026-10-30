@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 538 times)\n2. badges (used 385 times)\n3. co-authored-by: (used 120 times)\n4. add (used 104 times)\n5. match (used 99 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 539 times)\n2. badges (used 386 times)\n3. co-authored-by: (used 120 times)\n4. add (used 105 times)\n5. match (used 99 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/c838fa3a24b8db2404eaebfe87c364961e2d34ec\">c838fa3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/39df5eff5a766dcc139055096c375630063ffd72\">39df5ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215\">f0af8ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/7a125e33855349f6ec4241bf930b5800225c0bc0\">7a125e3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/18c4f17c4a79c18d6f50c2b678dcdc8b0adab49c\">18c4f17</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/c838fa3a24b8db2404eaebfe87c364961e2d34ec\">c838fa3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/39df5eff5a766dcc139055096c375630063ffd72\">39df5ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215\">f0af8ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -255,7 +255,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>: fix(app): the card stays where it is dropped, and slides back on failure\n\nFrom the live test of the drag:\n- The dropped card slid back to its origin, then settled at the drop.\n  The overlay no longer animates on its own: the card slides from where\n  it was released to its slot (FLIP, 200 ms).\n- A refused move slides the card from where it was dropped back to its\n  origin, with the same motion, in place of the view transition.\n- \"Pending\" shows on the card where it was dropped, until GitHub\n  acknowledges the move, online too.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>: fix(app): dispatch_intent answers with the move, even when it fails fast\n\nThe command read the board after asking the engine to flush. A refusal\nthat comes at once, like PLANCHE_FAULT=fail_mutations, had already\ndropped the row, so the reply showed the card back at its origin before\nthe front heard of the failure. The board is now read before the flush.\nThe app also logs each mutation on stdout, like planche sync --watch.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/c1ba106b778a0d32a25188e3d8e9d3a35a70c101\">c1ba106</a>: fix(drafts): focus each editor opening and restore its add button\n- <a href=\"https://github.com/HorebZ/Planche/commit/198adc11c08d1f28c2c438c490e7a9e2b996a13b\">198adc1</a>: fix(drafts): retain session input and create from List",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
