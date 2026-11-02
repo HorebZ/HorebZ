@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/18c4f17c4a79c18d6f50c2b678dcdc8b0adab49c">18c4f17</a>
-- <a href="https://github.com/HorebZ/Planche/commit/c838fa3a24b8db2404eaebfe87c364961e2d34ec">c838fa3</a>
-- <a href="https://github.com/HorebZ/Planche/commit/39df5eff5a766dcc139055096c375630063ffd72">39df5ef</a>
-- <a href="https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215">f0af8ef</a>
-- <a href="https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037">84ed7bc</a>
-- <a href="https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221">618ed13</a>
+- <a href="https://github.com/HorebZ/Planche/commit/b5c189ef69f8b468ba91044729736979ebbf25c9">b5c189e</a>
+- <a href="https://github.com/HorebZ/Planche/commit/897db3910ae953b0f8378b30fd458169bcefb35a">897db39</a>
+- <a href="https://github.com/HorebZ/Planche/commit/84c5b35edcfcf969481ef94cdc57c63f1e746a88">84c5b35</a>
+- <a href="https://github.com/HorebZ/Planche/commit/28442739ee4002491a85cb1c55292ac7cccc75ec">2844273</a>
+- <a href="https://github.com/HorebZ/Planche/commit/9a8d66b557ef93f5c9df3a5503484a28ea2fba03">9a8d66b</a>
+- <a href="https://github.com/HorebZ/Planche/commit/129ad9e38c8c07fff56a7823ea7b1a1533308fdb">129ad9e</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

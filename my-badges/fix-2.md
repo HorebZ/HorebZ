@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/c1ba106b778a0d32a25188e3d8e9d3a35a70c101">c1ba106</a>: fix(drafts): focus each editor opening and restore its add button
-- <a href="https://github.com/HorebZ/Planche/commit/198adc11c08d1f28c2c438c490e7a9e2b996a13b">198adc1</a>: fix(drafts): retain session input and create from List
+- <a href="https://github.com/HorebZ/Planche/commit/ae34c21074e842abb655721a8842713ac6d8999a">ae34c21</a>: fix(board): increase spacing between cards
+- <a href="https://github.com/HorebZ/Planche/commit/2f09fbc36f937093125f6cf688a8582a82d8be33">2f09fbc</a>: fix(board): preserve first card shadow below column headers
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

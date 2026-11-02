@@ -4,13 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/f225fcc8a5cd905205ca1c00cc3301385a093846">f225fcc</a>: chore(design): apply the Apple icon names and build AppIcon.icns
-
-RENAME.sh ran once: -2x and -3x became @2x and @3x, Contents.json follows,
-and iconutil built AppIcon.icns. The script is removed, and design/README.md
-no longer asks to run it.
-
-Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+- <a href="https://github.com/HorebZ/Planche/commit/28442739ee4002491a85cb1c55292ac7cccc75ec">2844273</a>: chore: migrate repository instructions to AGENTS.md
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

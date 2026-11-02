@@ -87,14 +87,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/f225fcc8a5cd905205ca1c00cc3301385a093846\">f225fcc</a>: chore(design): apply the Apple icon names and build AppIcon.icns\n\nRENAME.sh ran once: -2x and -3x became @2x and @3x, Contents.json follows,\nand iconutil built AppIcon.icns. The script is removed, and design/README.md\nno longer asks to run it.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/28442739ee4002491a85cb1c55292ac7cccc75ec\">2844273</a>: chore: migrate repository instructions to AGENTS.md",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/32f0f922706834f33359b8ac1325ffcbba7422c4\">32f0f92</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5aa707ac978085063058935b5769e3a8f5a2f756\">5aa707a</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/d8b432165db2690ce1fc7ea179fce2666352a26c\">d8b4321</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/53521385060a2f46cea3fae13f9d105569257741\">5352138</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/b7dd3220582142c8cc4f4abe7e604b294d037d41\">b7dd322</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9e46e6f192af0ba8449fe14b598a529fe7f3e678\">9e46e6f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/3b3d445049cac5b4f946d6bb3f09682d6fd66da4\">3b3d445</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/bd6c90f671bdc56b85063dcc87eecfb2a79ddb9f\">bd6c90f</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84c5b35edcfcf969481ef94cdc57c63f1e746a88\">84c5b35</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/32f0f922706834f33359b8ac1325ffcbba7422c4\">32f0f92</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5aa707ac978085063058935b5769e3a8f5a2f756\">5aa707a</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/d8b432165db2690ce1fc7ea179fce2666352a26c\">d8b4321</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -115,14 +115,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/6fd38c62e7fe68642d46c7f7068a71fe6086574d\">6fd38c6</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/7a125e33855349f6ec4241bf930b5800225c0bc0\">7a125e3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/68c3ae9a799023823a42890b064d61f634b82857\">68c3ae9</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/09e2b9b87c2ff5e019b34057254efa05a8c847ac\">09e2b9b</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/1af97d0b2ba8b845c128889fd36e2b3d3e3d84bf\">1af97d0</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/46ae9f38c243b817b9d4a78fec44945833411107\">46ae9f3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/0cd2a95c383f4a0a7735f7e2ee7efb9b2e159190\">0cd2a95</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/bb3fb983516a1af877567a3e4775879fbf9b08cb\">bb3fb98</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/590c85c2fa216a3c1eb13f5b4346e72d5c1ec301\">590c85c</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/1d7261f699c73d81fed3abba143c1f8edd92739f\">1d7261f</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/e9b8b9fd1a35c205603763586f2f510710d52804\">e9b8b9f</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/9a2b3ac08dff7d028d637a16350dd76ba9e874dd\">9a2b3ac</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/a95ee472554d309d437ffd774e29af16a426bc34\">a95ee47</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/de9723a08fbcee1e194a298c3ba7997ab4896b39\">de9723a</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/65f32d90b83091be7133ad2c2fe33aed526ae6f8\">65f32d9</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/8e48d0ba38071f7422e698e22e8cee75c74ca286\">8e48d0b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/8391b528c906cfdf238d624ed2ce0c4207ee08da\">8391b52</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/69639f2d83d2acc485c73b82b14f60447c56fda3\">69639f2</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/e325887231edd34c3c0331f1ad046b817b08c345\">e325887</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/f8a4ebb91ee0d2c368e68cd4ef43ad1355428591\">f8a4ebb</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/cfd378e800fd7b029a30da8bc03e1efd99de29a8\">cfd378e</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/0a198eb13bdc632534073431fd9e81a4c9fbac55\">0a198eb</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/b9d70c951ae29f2777d8f3da81499d6c32e2606f\">b9d70c9</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/b165318376f274174e4f96648214cb5ae10aa413\">b165318</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/4c3cde1ffd2ce674f1cdb4034715ea6da14dfce4\">4c3cde1</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/f2f03f80c7960583b376f72174369ad3c51603e8\">f2f03f8</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/43873873c1690d920e597cb55310b0b69ecf2696\">4387387</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/59330c24713048aeda3c53be970334010eb9a511\">59330c2</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/483343b034611fe351c32b14b8459418d8e16674\">483343b</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/fd23429aef1584e7acda407455d2a1ce40cdefd2\">fd23429</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/f2ec8144d82a2caf1d5b33d3d11ac53634a67d29\">f2ec814</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/a767a1698707505e0baf7cfca71c5622ed7a0686\">a767a16</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/65f32d90b83091be7133ad2c2fe33aed526ae6f8\">65f32d9</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/8e48d0ba38071f7422e698e22e8cee75c74ca286\">8e48d0b</a>\n- <a href=\"https://github.com/HorebZ/Nostradamovies/commit/25562295cd9e8a984ca56462622ad00c0b70fa0f\">2556229</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 539 times)\n2. badges (used 386 times)\n3. co-authored-by: (used 120 times)\n4. add (used 105 times)\n5. match (used 99 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 564 times)\n2. badges (used 387 times)\n3. add (used 121 times)\n4. match (used 99 times)\n5. co-authored-by: (used 80 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/b4d5c4d410e14b3aab8983756b5dd36a711cb89d\">b4d5c4d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/9a8d66b557ef93f5c9df3a5503484a28ea2fba03\">9a8d66b</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -192,14 +192,14 @@
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/dba5a5bd79c10b4b0a6499e816cc040fa217e237\">dba5a5b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/78d0ce13f9f8f335b74f18992169873ce1d0f282\">78d0ce1</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/e414add76acb9838b94be8670ee664b7e569cc58\">e414add</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/6183d5ea743b11fb157cd4342662c622fcde2d46\">6183d5e</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/ef0437e72b73dc9afd465384e48f6ca780c65fab\">ef0437e</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/a656c28bab1cf0a6551bedd52d9813401712c217\">a656c28</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/ab7796b4ff4a892e03e54f8f22ba85dd10687681\">ab7796b</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/93b90cc5c22db71f2b1949659a5fb23228e1f9d8\">93b90cc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/HorebZ/commit/93b90cc5c22db71f2b1949659a5fb23228e1f9d8\">93b90cc</a>\n- <a href=\"https://github.com/HorebZ/Nostradamovies/commit/7fca633911daef92252d1ea88546e7cd8238fe1c\">7fca633</a>\n- <a href=\"https://github.com/HorebZ/Nostradamovies/commit/125ffe400e57f352b72f93adb7615f79d9acde01\">125ffe4</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/18c4f17c4a79c18d6f50c2b678dcdc8b0adab49c\">18c4f17</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/c838fa3a24b8db2404eaebfe87c364961e2d34ec\">c838fa3</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/39df5eff5a766dcc139055096c375630063ffd72\">39df5ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/f0af8ef7de33d57a96a5713d00dcc002266ab215\">f0af8ef</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84ed7bc3e11b28ca401c64a5eaa92fc096ade037\">84ed7bc</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/618ed13f8da3d4c01261a4e0d5e2c367b7043221\">618ed13</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/b5c189ef69f8b468ba91044729736979ebbf25c9\">b5c189e</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/897db3910ae953b0f8378b30fd458169bcefb35a\">897db39</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/84c5b35edcfcf969481ef94cdc57c63f1e746a88\">84c5b35</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/28442739ee4002491a85cb1c55292ac7cccc75ec\">2844273</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/9a8d66b557ef93f5c9df3a5503484a28ea2fba03\">9a8d66b</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/129ad9e38c8c07fff56a7823ea7b1a1533308fdb\">129ad9e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/59d50361574ca9a132c5fb774ee9db8ebca1906c\">59d5036</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/7a572afd131fdd86276f1134cdaaf8ac78f87a58\">7a572af</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/c739104de5251d777114c7f389d7eee38cdfa566\">c739104</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9fd3b8fc8b62a787c10280475f7e83b7726c3921\">9fd3b8f</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/620b1d0ca6e75525c705ec0959c5703d85c48f6e\">620b1d0</a>\n- <a href=\"https://github.com/HorebZ/Horebz_scrolls/commit/5648ec17e31f2bba61e38baa93503d0dc2fae8e5\">5648ec1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/20e9819cfb131176ddd3054d567c41e70662aa0a\">20e9819</a>\n- <a href=\"https://github.com/HorebZ/Planche/commit/70271a027689920fa334090d48edfc49d65719bf\">70271a0</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/59d50361574ca9a132c5fb774ee9db8ebca1906c\">59d5036</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/7a572afd131fdd86276f1134cdaaf8ac78f87a58\">7a572af</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/c739104de5251d777114c7f389d7eee38cdfa566\">c739104</a>\n- <a href=\"https://github.com/HorebZ/CDM-2026/commit/9fd3b8fc8b62a787c10280475f7e83b7726c3921\">9fd3b8f</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -255,7 +255,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/c1ba106b778a0d32a25188e3d8e9d3a35a70c101\">c1ba106</a>: fix(drafts): focus each editor opening and restore its add button\n- <a href=\"https://github.com/HorebZ/Planche/commit/198adc11c08d1f28c2c438c490e7a9e2b996a13b\">198adc1</a>: fix(drafts): retain session input and create from List",
+    "body": "Commits:\n\n- <a href=\"https://github.com/HorebZ/Planche/commit/ae34c21074e842abb655721a8842713ac6d8999a\">ae34c21</a>: fix(board): increase spacing between cards\n- <a href=\"https://github.com/HorebZ/Planche/commit/2f09fbc36f937093125f6cf688a8582a82d8be33\">2f09fbc</a>: fix(board): preserve first card shadow below column headers",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
