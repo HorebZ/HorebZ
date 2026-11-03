@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/HorebZ/Planche/commit/c25754b737a16b0ef96310bcda0e0283ca6193e9">c25754b</a>
 - <a href="https://github.com/HorebZ/Planche/commit/8391b528c906cfdf238d624ed2ce0c4207ee08da">8391b52</a>
 - <a href="https://github.com/HorebZ/Planche/commit/69639f2d83d2acc485c73b82b14f60447c56fda3">69639f2</a>
 - <a href="https://github.com/HorebZ/Planche/commit/e325887231edd34c3c0331f1ad046b817b08c345">e325887</a>

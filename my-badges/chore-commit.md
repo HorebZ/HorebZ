@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/28442739ee4002491a85cb1c55292ac7cccc75ec">2844273</a>: chore: migrate repository instructions to AGENTS.md
+- <a href="https://github.com/HorebZ/Planche/commit/cc5b3342a3830eaf136335e6558e9d48380b733c">cc5b334</a>: chore(release): prepare alpha.3 with latest app improvements
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

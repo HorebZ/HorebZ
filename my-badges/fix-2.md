@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/ae34c21074e842abb655721a8842713ac6d8999a">ae34c21</a>: fix(board): increase spacing between cards
-- <a href="https://github.com/HorebZ/Planche/commit/2f09fbc36f937093125f6cf688a8582a82d8be33">2f09fbc</a>: fix(board): preserve first card shadow below column headers
+- <a href="https://github.com/HorebZ/Planche/commit/9a5c220fc53fc2bf16e0b3b7af288cf167c081f4">9a5c220</a>: fix(ui): identify move alerts by issue number and status
+- <a href="https://github.com/HorebZ/Planche/commit/12b809f0f1e4ab875a700a70f38f735f04a287f5">12b809f</a>: fix(board): settle drops after the optimistic board renders
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

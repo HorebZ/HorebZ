@@ -19,6 +19,7 @@ Repos:
 * <a href="https://github.com/HorebZ/Horebz_scrolls">HorebZ/Horebz_scrolls: ★4</a>
 * <a href="https://github.com/HorebZ/CDM-2026">HorebZ/CDM-2026: ★3</a>
 * <a href="https://github.com/HorebZ/dev-skills">HorebZ/dev-skills: ★3</a>
+* <a href="https://github.com/HorebZ/Planche">HorebZ/Planche: ★3</a>
 * <a href="https://github.com/tscherrer05/code-names">tscherrer05/code-names: ★2</a>
 * <a href="https://github.com/HorebZ/Badges4-README.md-Profile">HorebZ/Badges4-README.md-Profile: ★2</a>
 * <a href="https://github.com/HorebZ/github-readme-stats">HorebZ/github-readme-stats: ★2</a>

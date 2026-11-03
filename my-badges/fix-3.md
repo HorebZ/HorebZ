@@ -4,15 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/CDM-2026/commit/bd37d7c50d96e3afd7af73e2a3107e3b4dff34c8">bd37d7c</a>: fix match result presentation
-
-Co-authored-by: Cursor <cursoragent@cursor.com>
-- <a href="https://github.com/HorebZ/CDM-2026/commit/1156433ad88f24870693f06b40581495ac308a23">1156433</a>: fix mobile match metadata layout
-
-Co-authored-by: Cursor <cursoragent@cursor.com>
-- <a href="https://github.com/HorebZ/CDM-2026/commit/13708a2b5380facffe11d32796ff350a3d863f4a">13708a2</a>: fix mobile flags grid spacing
-
-Co-authored-by: Cursor <cursoragent@cursor.com>
+- <a href="https://github.com/HorebZ/Planche/commit/0584272f7d3ada84c4232e319dd1ae55607224c2">0584272</a>: fix(ui): fade board columns into the background
+- <a href="https://github.com/HorebZ/Planche/commit/92d59e8230618276524d0c9669ba8342b724b3b4">92d59e8</a>: fix(ui): simplify toolbar sync and project link
+- <a href="https://github.com/HorebZ/Planche/commit/ba7a1f5560bf7ff9cd153c47eb7b516ed27de478">ba7a1f5</a>: fix(ui): preserve retry errors in dismissible stacked toasts
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
