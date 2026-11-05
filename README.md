@@ -3,7 +3,7 @@
 
 ### Hi there 🤙🏽
 
-I'm a Husband / Father of two / software engineer from france 🇫🇷
+I'm a Husband / Father of two / (Product) engineer from france 🇫🇷
 
 
 <br>
