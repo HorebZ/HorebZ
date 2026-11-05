@@ -12,7 +12,7 @@ I'm a Husband / Father of two / (Product) engineer from france 🇫🇷
 
   <img src="dog.gif" width='50' />
 
-  🔭 I am currently <s>bidouilling</s> working for [**Indy.fr**](https://www.indy.fr/) as a product engineer
+  🔭 I am currently <s>bidouilling</s> working for [**Indy.fr**](https://www.indy.fr/) since 2023
   
   </br>
 
