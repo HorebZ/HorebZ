@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/HorebZ/Planche/commit/7894b2a8a1729eb00adc5260e90960e7f7f591a1">7894b2a</a>: chore(release): prepare 0.1.0-alpha.4
-
-Include issue panels, retained tabs, activity and closing pull requests, high-contrast themes, sidebar shortcuts, Keychain sessions, stable signing and OAuth with companion GitHub App access. Document migration steps and alpha limitations; allow account cache tests with configured App support.
+- <a href="https://github.com/HorebZ/Planche/commit/496208b613b8b6c35d29894f897a773994cddfd3">496208b</a>: chore(release): prepare 0.1.0-alpha.7
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
