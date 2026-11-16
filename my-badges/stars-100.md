@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/HorebZ/Popeye">HorebZ/Popeye: ★10</a>
 * <a href="https://github.com/HorebZ/Need4Stek">HorebZ/Need4Stek: ★9</a>
 * <a href="https://github.com/HorebZ/is-one-thousand-nine-hundred-and-ninety-nine">HorebZ/is-one-thousand-nine-hundred-and-ninety-nine: ★9</a>
 * <a href="https://github.com/HorebZ/Epitech_project">HorebZ/Epitech_project: ★8</a>
 * <a href="https://github.com/HorebZ/HorebZ">HorebZ/HorebZ: ★8</a>
+* <a href="https://github.com/HorebZ/Planche">HorebZ/Planche: ★8</a>
 * <a href="https://github.com/HorebZ/42sh">HorebZ/42sh: ★7</a>
 * <a href="https://github.com/HorebZ/101pong">HorebZ/101pong: ★6</a>
 * <a href="https://github.com/HorebZ/105torus">HorebZ/105torus: ★4</a>
@@ -19,7 +19,6 @@ Repos:
 * <a href="https://github.com/HorebZ/Horebz_scrolls">HorebZ/Horebz_scrolls: ★4</a>
 * <a href="https://github.com/HorebZ/CDM-2026">HorebZ/CDM-2026: ★3</a>
 * <a href="https://github.com/HorebZ/dev-skills">HorebZ/dev-skills: ★3</a>
-* <a href="https://github.com/HorebZ/Planche">HorebZ/Planche: ★3</a>
 * <a href="https://github.com/tscherrer05/code-names">tscherrer05/code-names: ★2</a>
 * <a href="https://github.com/HorebZ/Badges4-README.md-Profile">HorebZ/Badges4-README.md-Profile: ★2</a>
 * <a href="https://github.com/HorebZ/github-readme-stats">HorebZ/github-readme-stats: ★2</a>
